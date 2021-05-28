@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="540e9a6a-aafc-4f89-b01c-dae7593fb780" name="Default Changelist" comment="" />
+    <list default="true" id="540e9a6a-aafc-4f89-b01c-dae7593fb780" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,9 @@
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -124,6 +130,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1slUrOqeaDH60itphxSwbSygegr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -133,6 +140,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -166,7 +174,7 @@
       <workItem from="1621927692512" duration="21088000" />
       <workItem from="1622009578320" duration="2074000" />
       <workItem from="1622015218959" duration="1939000" />
-      <workItem from="1622192800098" duration="163000" />
+      <workItem from="1622192800098" duration="1508000" />
     </task>
     <servers />
   </component>
@@ -190,6 +198,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="743" y="277" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1621942640506" />
+    <state x="831" y="423" width="409" height="256" key="Github.ShareDialog" timestamp="1622193009195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="831" y="423" width="409" height="256" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622193009195" />
+    <state x="712" y="138" width="485" height="756" key="Github.UntrackedFilesDialog" timestamp="1622193022723">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="138" width="485" height="756" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1622193022723" />
     <state x="731" y="232" width="448" height="568" key="NewPhpClassDialog" timestamp="1621510494387">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
